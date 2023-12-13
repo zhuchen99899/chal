@@ -1,0 +1,9 @@
+..\obj\chal_serial.o: ..\..\cHal\hal\chal_serial.c
+..\obj\chal_serial.o: ..\..\cHal\hal\chal_serial.h
+..\obj\chal_serial.o: ..\..\cHal\device\chal_device.h
+..\obj\chal_serial.o: ..\..\cHal\common\chal_def.h
+..\obj\chal_serial.o: D:\Software\IDE\Keil\Uv5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\chal_serial.o: ..\..\cHal\common\chal_config.h
+..\obj\chal_serial.o: D:\Software\IDE\Keil\Uv5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\chal_serial.o: D:\Software\IDE\Keil\Uv5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\chal_serial.o: D:\Software\IDE\Keil\Uv5\ARM\ARMCC\Bin\..\include\stdbool.h

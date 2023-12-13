@@ -1,0 +1,9 @@
+..\obj\chal_pin.o: ..\..\cHal\hal\chal_pin.c
+..\obj\chal_pin.o: ..\..\cHal\hal\chal_pin.h
+..\obj\chal_pin.o: D:\Software\IDE\Keil\Uv5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\chal_pin.o: D:\Software\IDE\Keil\Uv5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\chal_pin.o: ..\..\cHal\device\chal_device.h
+..\obj\chal_pin.o: ..\..\cHal\common\chal_def.h
+..\obj\chal_pin.o: ..\..\cHal\common\chal_config.h
+..\obj\chal_pin.o: D:\Software\IDE\Keil\Uv5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\chal_pin.o: D:\Software\IDE\Keil\Uv5\ARM\ARMCC\Bin\..\include\string.h

@@ -1,0 +1,16 @@
+..\obj\led.o: ..\APP\led.c
+..\obj\led.o: ..\..\cHal\device\chal_device.h
+..\obj\led.o: ..\..\cHal\common\chal_def.h
+..\obj\led.o: D:\Software\IDE\Keil\Uv5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\led.o: ..\..\cHal\common\chal_config.h
+..\obj\led.o: D:\Software\IDE\Keil\Uv5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\led.o: D:\Software\IDE\Keil\Uv5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\led.o: D:\Software\IDE\Keil\Uv5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\led.o: ..\..\cHal\common\chal_export.h
+..\obj\led.o: ..\..\cHal\init\chal_init.h
+..\obj\led.o: ..\..\cHal\common\chal_export.h
+..\obj\led.o: ..\..\cHal\device\chal_led.h
+..\obj\led.o: ..\..\cHal\hal\chal_pin.h
+..\obj\led.o: ..\APP\app.h
+..\obj\led.o: ..\..\cHal\hal\chal_serial.h
+..\obj\led.o: D:\Software\IDE\Keil\Uv5\ARM\ARMCC\Bin\..\include\stdio.h

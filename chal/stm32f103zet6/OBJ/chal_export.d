@@ -1,0 +1,10 @@
+..\obj\chal_export.o: ..\..\cHal\common\chal_export.c
+..\obj\chal_export.o: ..\..\cHal\common\chal_export.h
+..\obj\chal_export.o: D:\Software\IDE\Keil\Uv5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\chal_export.o: D:\Software\IDE\Keil\Uv5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\chal_export.o: ..\..\cHal\common\chal_def.h
+..\obj\chal_export.o: ..\..\cHal\common\chal_config.h
+..\obj\chal_export.o: D:\Software\IDE\Keil\Uv5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\chal_export.o: ..\..\cHal\init\chal_init.h
+..\obj\chal_export.o: ..\..\cHal\common\chal_export.h
+..\obj\chal_export.o: D:\Software\IDE\Keil\Uv5\ARM\ARMCC\Bin\..\include\string.h
